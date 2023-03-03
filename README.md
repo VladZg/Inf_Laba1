@@ -6,3 +6,10 @@ This repository is for my 1st informatic laba!
 2. AbObA!
 3. ABOBA!?
 ```
+
+# Markdown test #1
+## Markdown test #2
+## Markdown test #3
+    - ну норм
+    - ага
+    - даб нормас
